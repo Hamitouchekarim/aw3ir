@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+
+
+table,tr,th{
+text-align: start;
+border: 1px double black;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+img{
+    position: relative;
+    left: 200px;
+}
